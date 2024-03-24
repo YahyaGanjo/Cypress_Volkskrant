@@ -1,4 +1,4 @@
-import bugermenuPageObject from "../pageObject/bugermenuPageObject";
+import bugermenuPageObject from "../pageObject/burgermenuPageObject";
 
 describe('visit the website', function() {
     beforeEach(() => {
